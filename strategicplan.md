@@ -1,6 +1,6 @@
 ## Strategic Plan June - Aug 2019
 
-I plan to develop my strategic plan for six weeks at a time, and revisit the plan to add new tasks and new projects on a weekly or biweekly basis. 
+I plan to develop my strategic plan for six weeks at a time, and revisit the plan to add new tasks and new projects on a weekly or biweekly basis. For an overview of the process I am following please see the [readme](https://github.com/nniiicc/StrategicPlan/blob/master/readme.md) file for this repository. 
 
 I created repositories with issues and milestones for each of the projects that I am working on. There are some short 
 - [Submission to a special issue of the Data Science Journal (due June 30)](https://github.com/nniiicc/DSJ-2019-DrexelCoData/milestone/1)
