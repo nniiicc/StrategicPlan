@@ -1,4 +1,4 @@
-##Strategic Plan June - Aug 2019
+## Strategic Plan June - Aug 2019
 
 I plan to develop my strategic plan for six weeks at a time, and revisit the plan to add new tasks and new projects on a weekly or biweekly basis. 
 
@@ -12,33 +12,33 @@ I created repositories with issues and milestones for each of the projects that 
 - - [Annotation for Transparent Inquiry](https://github.com/nniiicc/ATI/issues)
 
 
-###Week 1 (June 3-9)
+### Week 1 (June 3-9)
 - [Project board](https://github.com/users/nniiicc/projects/1)
 - Goals: The major things that I need to accomplish for research and writing this week are related to getting an outline of the DSJ paper completed; and developing a first draft for the Contextual Integrity symposium. I also need to get a jumpstart on Bernie (postdoc) beginning on the Sloan grant in two weeks. 
 
 - Review: 
 
-###Week 2 (June 10-16)
+### Week 2 (June 10-16)
 - [Project board]()
 - Goals: I have to submit the Contextual Integrity symosium abtract this week and finish a first draft of the DSJ paper. There are three data collection events related to the Council Data Project that will require prep for this week. 
 - Review: 
 
-###Week 3 (June 17-23)
+### Week 3 (June 17-23)
 - [Project board](.)
 - Goals:
 - Review: 
 
-###Week 4 (June 24- June 30)
+### Week 4 (June 24- June 30)
 - [Project board](.)
 - Goals:
 - Review: 
 
-###Week 5 (July 1-6)
+### Week 5 (July 1-6)
 - [Project board](.)
 - Goals:
 - Review: 
 
-###Week 6 (July 7-13)
+### Week 6 (July 7-13)
 - [Project board](.)
 - Goals:
 - Review: 
